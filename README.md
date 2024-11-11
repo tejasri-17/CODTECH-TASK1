@@ -4,7 +4,7 @@ Company: CODTECH IT SOLUTIONS
 
 Releases
 
-ID:
+ID:CT08DS9712
 
 No releases published
 
@@ -16,7 +16,7 @@ Duration:october to november 2024
 
 Packages
 
-Mentor: 
+Mentor:SANTHOSH
 
 No packages published
 
